@@ -1,0 +1,11 @@
+{
+    "manifest_version": 3,
+    "version": "1.01",
+    "name": "Black Andreas",
+    "description": "This is a test to check if what i made is playable. Enjoy!",
+    "action": {
+        "default_popup": "index.html",
+        "default_icon": "Untitled-1.png"
+    
+    }
+}

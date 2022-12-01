@@ -1,0 +1,69 @@
+body {
+    background-image: url('table.png');
+    background-size: cover;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    color: white;
+    min-width: 600px;
+}
+
+h1 {
+    font-weight: bold;
+    color: goldenrod;
+    font-size: 40px;
+}
+
+img.cards {
+    height: 75px;
+}
+
+p {
+    font-size: 25px
+}
+
+#message-el {
+    font-style: italic;
+    font-size: 35px;
+}
+
+button {
+    width: 200px;
+    height: 40px;
+    font-size: larger;
+    border-radius: 3px;
+    color: #016f32;
+    font-weight: bold;
+    font-size: 23px;
+    border: 0;
+    background-color: goldenrod;
+    margin-left: 10px;
+    margin-bottom: 5px;
+}
+
+
+input {
+    padding-left: 10px;
+    background-color: white;
+    border: 0;
+    border-radius: 3px;
+    color: black;
+    height: 40px;
+    width: 150px;
+    font-size: 20px;
+    font-style: italic;
+}
+
+#money-el {
+    font-weight: bold;
+    color: goldenrod;
+}
+
+
+#stand-el{
+    width: 100px;
+    height: 30px;
+    font-size: 17px;
+    border-radius: 10px;
+    background-color: rgb(155, 0, 0);
+    color: #003116;
+}
